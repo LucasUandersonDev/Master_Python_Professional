@@ -3,7 +3,7 @@
 Bem-vindo à Especialização em Python na London App Brewery, uma jornada intensiva de aprendizado conduzida pela Dra. Angela Yu.
 
 ## Sobre a Especialização
-Este curso abrangente em Python é ministrado pela Dra. Angela Yu, fundadora e instrutora principal na London App Brewery, uma das principais bootcamps de programação em Londres. Com mais de 60 horas de vídeo-aulas em HD, este curso leva você de iniciante a desenvolvedor profissional em Python.
+Este curso abrangente em Python é ministrado pela Dra. Angela Yu, fundadora e instrutora principal na London App Brewery, uma das principais bootcamps de programação em Londres. Com mais de 60 horas de vídeo-aulas, este curso leva de iniciante a desenvolvedor profissional em Python.
 
 ## O Que Você Vai Aprender
 - Python 3 - Fundamentos e avançado
