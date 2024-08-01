@@ -1,13 +1,22 @@
-word_list = ["homem","casa","bicicleta","cachorro"]
-
 import random
-
+word_list = ["homem","casa","bicicleta","cachorro"]
 chosen_word = random.choice(word_list)
 
-advinha = input("Advinha a letra: ").lower()
+print(f"Pssst, a solução é {chosen_word}")
 
-for letra in chosen_word:
-    if letra == advinha:
-        print("Certo")
-    else:
-        print("Wrong")
+display = []
+word_length = len(chosen_word)
+for _ in range(word_length):
+    display += "_"
+    
+
+guess = input("Advinha a letra: ").lower()
+
+for position in range(word_length):
+    letter = chosen_word[position]
+    if letter == guess:
+        display[position] = letter
+        
+        
+print(display)
+    
