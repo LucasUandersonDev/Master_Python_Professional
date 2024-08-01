@@ -1,0 +1,6 @@
+Python é uma linguagem orientada a objetos clara e poderosa, comparável a Perl, Ruby, Scheme ou Java.
+
+Algumas das características notáveis do Python:
+
+- Usa sintaxe elegante, tornando os programas mais faceis de ler.
+- Simplifica o funcionamento do seu programa
